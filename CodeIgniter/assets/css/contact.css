@@ -1,0 +1,36 @@
+.row {
+	text-align:center;
+}
+
+.contact-form, .form-messeage {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 0 30px;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.contact-form {
+	display:inline-block;
+}
+
+.contact-form input {
+	margin:10px 0;
+	border-top : none; border-left : none; border-right: none;
+	border-bottom-color: #D5D5D5;
+}
+
+.error {
+	font-size:15px; color:#D5D5D5;
+}
+
+.contact-gojoin {
+	text-align: center;
+	font-size: 15px;
+    font-weight: 600;
+    margin: 10px 0 30px;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.contact-gojoin a {
+	text-decoration: none;
+}

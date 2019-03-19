@@ -1,0 +1,12 @@
+.maintable {
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	margin-top:20px;
+}
+
+table {
+	display: inline-block;
+}
+
+.contact-icon {
+		padding-left:0;
+}

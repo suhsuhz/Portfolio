@@ -1,0 +1,12 @@
+.ib {display:inline;}
+.diary > div {margin: 20px 0;}
+.right {float:right;}
+.diary { font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin:30px 0; width:100%;}
+#info {font-size: 15px;}
+#title {background:#EAEAEA;}
+#img > img {
+	width:100%;
+}
+.golist {
+	font-size: 15px; background:#EAEAEA;
+}
